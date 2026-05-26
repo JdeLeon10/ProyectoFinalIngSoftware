@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jered\\Desktop\\ProyectoIngSoftware\\Backend\\IngSoftwareBackend\\IngSoftwareBackend\\IngSoftwareBackend.csproj": {}
+    "/Users/jeremydeleon/Desktop/ProyectoIngSoftware/ProyectoFinalIngSoftware/Backend/IngSoftwareBackend/IngSoftwareBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jered\\Desktop\\ProyectoIngSoftware\\Backend\\IngSoftwareBackend\\IngSoftwareBackend\\IngSoftwareBackend.csproj": {
+    "/Users/jeremydeleon/Desktop/ProyectoIngSoftware/ProyectoFinalIngSoftware/Backend/IngSoftwareBackend/IngSoftwareBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jered\\Desktop\\ProyectoIngSoftware\\Backend\\IngSoftwareBackend\\IngSoftwareBackend\\IngSoftwareBackend.csproj",
+        "projectUniqueName": "/Users/jeremydeleon/Desktop/ProyectoIngSoftware/ProyectoFinalIngSoftware/Backend/IngSoftwareBackend/IngSoftwareBackend.csproj",
         "projectName": "IngSoftwareBackend",
-        "projectPath": "C:\\Users\\Jered\\Desktop\\ProyectoIngSoftware\\Backend\\IngSoftwareBackend\\IngSoftwareBackend\\IngSoftwareBackend.csproj",
-        "packagesPath": "C:\\Users\\Jered\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jered\\Desktop\\ProyectoIngSoftware\\Backend\\IngSoftwareBackend\\IngSoftwareBackend\\obj\\",
+        "projectPath": "/Users/jeremydeleon/Desktop/ProyectoIngSoftware/ProyectoFinalIngSoftware/Backend/IngSoftwareBackend/IngSoftwareBackend.csproj",
+        "packagesPath": "/Users/jeremydeleon/.nuget/packages/",
+        "outputPath": "/Users/jeremydeleon/Desktop/ProyectoIngSoftware/ProyectoFinalIngSoftware/Backend/IngSoftwareBackend/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jered\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jeremydeleon/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -66,6 +60,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

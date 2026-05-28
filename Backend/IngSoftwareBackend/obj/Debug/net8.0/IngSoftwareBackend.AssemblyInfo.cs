@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IngSoftwareBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6d2555baff86e3c2ebdc3f2627dc946d47f357")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1769bb3cce53cdb89c7fd67f2abf03e0ee088fd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("IngSoftwareBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IngSoftwareBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
